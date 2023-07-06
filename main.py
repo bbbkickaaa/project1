@@ -16,3 +16,9 @@ print(num1, '+', num2,'=', result)
 
 result = sub_func(num,num2)
 print(num1, '+', num2,'=', result)
+
+result = mul_func(num,num2)
+print(num1, '*', num2,'=', result)
+
+result = div_func(num,num2)
+print(num1, '/', num2,'=', result)
